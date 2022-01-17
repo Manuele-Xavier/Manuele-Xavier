@@ -1,2 +1,2 @@
-### hello i'm Manu 👋
+## Hello i'm Manu 👋
 
